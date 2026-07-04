@@ -41,9 +41,9 @@ Build instructions will be updated when structure stabilizes.
 
 ## 💡 Roadmap
 
-- [ ] Basic music playback
-- [ ] Playlist system
-- [ ] Basic UI and volume control
+- [x] Basic music playback
+- [x] Playlist system
+- [x] Basic UI and volume control
 - [ ] UI redesign
 - [ ] Theme support
 
@@ -58,4 +58,3 @@ MIT License
 ## 👤 Author
 
 - GitHub: [@SoiConk](https://github.com/SoiConk)
-```
